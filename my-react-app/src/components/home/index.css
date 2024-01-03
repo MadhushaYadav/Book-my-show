@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+.searchBox{
+    display:flex;
+    margin-top: 10px;
+}
+
+.mainHeading{
+    margin-right: 10px;
+}
+
+.movies{
+    height:50px;
+    margin-top: 15px;
+    background-color: rgb(243, 242, 242);
+    color:grey;
+    padding:10px;
+    text-decoration:none;
+
+}
+
+.carousel{
+    height: 160px;
+    color: #fff;
+    line-height: 160px;
+    background-color: #364d79;
+}
+
+.image-1{
+    height:300px;
+    background-image:url("https://assets.vogue.in/photos/5f16b3bc9ffca08d1848369b/2:3/w_1600,c_limit/must-watch%20action%20movies.jpg");
+    background-size:cover;
+    
+}
+.image-2{
+    
+    height:300px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9I_15zEVpi19EYw4aGU-KT6y0ke6xcelEVA&usqp=CAU");
+    background-size:cover;
+    
+}
+.image-3{
+    
+    height:300px;
+    background-image:url("https://images2.alphacoders.com/724/thumb-350-724132.webp");
+    background-size:cover;
+    
+}

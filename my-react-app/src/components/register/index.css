@@ -1,0 +1,36 @@
+body{
+    background-color: azure;
+    
+}
+
+.header{
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(10, 73, 102) ;
+}
+
+.boxBody{
+    
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  
+
+}
+
+.formBox{
+    box-sizing: border-box;
+    width:400px;
+    background-color: rgb(234, 240, 241);
+    border:2px solid rgb(201, 232, 240);
+    padding: 10px;
+    border-radius:5px
+    
+    
+    }
+
+.alreadyAccount{
+    text-align: center;
+    }
+
