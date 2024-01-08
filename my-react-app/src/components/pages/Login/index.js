@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import { Button, Checkbox, Form, Input } from 'antd';
 import "./index";
-import Register from '../register';
+import Register from '../Register';
 
 function Login(){
   const [isRegister,setIsRegister]=useState(false);
